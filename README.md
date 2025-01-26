@@ -1,4 +1,4 @@
-# DATA SCIENCE POSTFOLIO
+# DATA SCIENCE PORTFOLIO
 A portfolio site for datascience projects
 
 ## Hello Data Science
